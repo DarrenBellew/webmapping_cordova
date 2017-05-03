@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.islarf6546.gmail"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.islarf6546.gmail"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.islarf6546.gmail"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.islarf6546.gmail"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.islarf6546.gmail"
+        }
+    }
+}
